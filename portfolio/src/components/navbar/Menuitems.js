@@ -27,6 +27,5 @@ export const MenuItems = [
         title: 'Burger',
         url: '#',
         cName: 'nav-links-mobile'
-
     },
 ]
